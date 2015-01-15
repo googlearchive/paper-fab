@@ -2,12 +2,12 @@
   "name": "paper-fab",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "core-icon": "Polymer/core-icon#master",
-    "core-icons": "Polymer/core-icons#master",
-    "paper-button": "Polymer/paper-button#master",
-    "paper-ripple": "Polymer/paper-ripple#master",
-    "paper-shadow": "Polymer/paper-shadow#master"
+    "polymer": "Polymer/polymer#^0.5",
+    "core-icon": "Polymer/core-icon#^0.5",
+    "core-icons": "Polymer/core-icons#^0.5",
+    "paper-button": "Polymer/paper-button#^0.5",
+    "paper-ripple": "Polymer/paper-ripple#^0.5",
+    "paper-shadow": "Polymer/paper-shadow#^0.5"
   },
   "devDependencies": {
     "web-component-tester": "Polymer/web-component-tester#^1.1.4"
